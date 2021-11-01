@@ -30,8 +30,8 @@ Our team decided to program a student performance prediction model in order to p
 ## Authors
 
 - Nizar [@NizarMazlan](https://github.com/NizarMazlan)
-- Zulfathi [@](https://github.com/)
-- Steve [@](https://github.com/)
+- Zulfathi [@Zulfathi](https://github.com/zulfathihanafi)
+- Steve [@Steve](https://github.com/scz-stib)
 - Daniel [@DanielWan](https://github.com/KeluhingBavui)
 
 
