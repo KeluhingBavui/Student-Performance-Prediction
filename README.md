@@ -32,7 +32,7 @@ Our team decided to program a student performance prediction model in order to p
 - Nizar [@NizarMazlan](https://github.com/NizarMazlan)
 - Zulfathi [@](https://github.com/)
 - Steve [@](https://github.com/)
-- Daniel [@](https://github.com/KeluhingBavui)
+- Daniel [@DanielWan](https://github.com/KeluhingBavui)
 
 
 
