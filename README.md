@@ -21,7 +21,7 @@ Our team decided to program a student performance prediction model in order to p
 
 ## Presentation Slides
 - To see the slide presentation just click the link: To be updated
-(<Link>)
+(https://docs.google.com/presentation/d/1qgVKBz9EzPQvG0jaz4mowy1u38BDt110PGrplJJq2wc/edit?usp=sharing)
 
 ### Resources
 - Cortez, P., & Silva, A. M. G. (2008). Using data mining to predict secondary school student performance. Retrieved from website: http://www3.dsi.uminho.pt/pcortez/student.pdf
