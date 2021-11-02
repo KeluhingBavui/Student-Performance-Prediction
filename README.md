@@ -26,6 +26,9 @@ Our team decided to program a student performance prediction model in order to p
 ### Resources
 - Cortez, P., & Silva, A. M. G. (2008). Using data mining to predict secondary school student performance. Retrieved from website: http://www3.dsi.uminho.pt/pcortez/student.pdf
 
+### Kandi Kit
+- https://kandi.openweaver.com/collections/machine-learning/student-performance-prediction1
+
 
 ## Authors
 
